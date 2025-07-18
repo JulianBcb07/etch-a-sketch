@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito Sans", Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #9ec6f3;
+}
+
+.navbar {
+  background-color: #0d92f4;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  background-color: #bf3131;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-style {
+  display: block;
+  width: 150px;
+  padding: 10px;
+}
