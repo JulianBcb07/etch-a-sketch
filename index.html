@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ethc-a-sketch</title>
+    <title>Etch-a-sketch</title>
     <!-- dependencies -->
     <!-- css -->
     <link rel="stylesheet" href="/src/styles.css">
@@ -27,6 +27,18 @@
 
         </div>
         <div class="container">
+            <div class="button-section">
+                <input type="color" class="colorPicker" name="colorPicker" id="colorPicker" value="#471396">
+                <button class="btn-style" id="button-color">Color mode</button>
+                <button class="btn-style" id="button-rcolor">Random Color</button>
+                <button class="btn-style" id="button-erease">Erease</button>
+                <button class="btn-style" id="button-clear">Clear</button>
+                <!-- <button class="btn-style" id="button-size">Grid size</button> -->
+                <div>
+                    <p class="size-value" id="size-value">16 x 16</p>
+                    <input type="range" name="gridSize" id="grid-size" class="gridSize" value="16" min="2" max="64">
+                </div>
+            </div>
         </div>
     </main>
 
