@@ -57,8 +57,13 @@ Este proyecto me ayudó a fortalecer varios conceptos importantes de desarrollo 
 ---
 
 <h4 align="center">
-👨‍💻 Autor
-Julian Bacab – [@JulianBcb07](https://github.com/JulianBcb07)
+👨‍💻 Autor Julian Bacab – [@JulianBcb07](https://github.com/JulianBcb07)
+</h4>
+
+---
+
+<h4 align="center">
+🚀 Link del proyecto - https://julianbcb07.github.io/etch-a-sketch/
 </h4>
 
 ---
